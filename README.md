@@ -1,6 +1,6 @@
 # Meal Planner
 
-This is my meal planner app.
+A user-friendly React Native app to plan, organize, and track daily meals breakfast, lunch, dinner, and snacks helping users maintain healthy eating habits effortlessly.
 
 ## Screenshot
 
